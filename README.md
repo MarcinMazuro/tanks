@@ -298,3 +298,7 @@ def _game_loop(self):
 2. **Przetwarzanie Współbieżne**: Wiele wątków obsługuje aktualizacje gry i komunikację z klientami jednocześnie
 3. **Synchronizacja w Czasie Rzeczywistym**: System ticków zapewnia, że wszyscy klienci widzą spójny stan gry
 4. **Odporność na Błędy**: System elegancko obsługuje problemy z siecią i rozłączenia klientów
+
+## Autorzy
+- Marcin Mazuro 198019
+- Maciej Salejko 198132
